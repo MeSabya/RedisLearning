@@ -1,10 +1,5 @@
 # RedisLearning
 
-- Remote dictionary 
-- Open source 
-- Key value store 
-- Persistence 
-- High Availability 
-- Distributed Cluster 
-- 
+### References:
+https://www.educative.io/courses/complete-guide-to-redis/gkzEXppJ3JG
 
